@@ -11,7 +11,7 @@
 	<groupId>com.nt</groupId>
 	<artifactId>SpringBootMiniProj01-DealerAndVehicleManagement-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>SpringBootMiniProj01-DealerAndVehicleManagement-API</name>
 	<description>Student-Management-System DemoApp</description>
 	<url/>
